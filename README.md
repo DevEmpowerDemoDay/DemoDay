@@ -1,50 +1,22 @@
-# DemoDay
-O projeto DemoDay visa auxiliar e capacitar estudantes e profissionais da área de desenvolvimento em competências socioemocionais (soft-skills). Abaixo, estão listadas algumas funcionalidades que deverão ser implementadas durante o desenvolvimento do projeto, tais como: videoaulas, tarefas que exercitem a oratória sujeitas à revisão de um profissional, artigos relatando experiências de outros usuários, e uma comunidade com interação ativa, que permita a avaliação de outros alunos e a discussão de questões simples. Como esse campo envolve bastante criatividade da equipe, essas são as funcionalidades que temos em mente por enquanto.
-
-O projeto surgiu de uma necessidade frequentemente mencionada na área e visa atender ao público que busca desenvolver essas habilidades dentro da área de tecnologia. No entanto, isso não impede que pessoas fora da área também possam se beneficiar do desenvolvimento das suas soft-skills.
 
 # TODO
 
 ## Videoaulas
-Produzir e gravar videoaulas sobre tópicos como comunicação eficaz, liderança, trabalho em equipe, entre outros.
-Implementar um sistema de categorização e busca para facilitar o acesso às videoaulas.
-Integrar quizzes e testes interativos ao final das videoaulas para reforçar o aprendizado.
+Implementar sistema de videoaulas em parceria com profissionais de Recursos Humanos, as videoaulas estarão em uma sessão exclusiva dentro da plataforma, podendo ser acessadas com facilidade e a qualquer momento.
 
-## Tarefas de Oratória
-Desenvolver um teste capaz de identificar pontos fracos e fortes em soft-skills do usuario, assim melhorando a experiencia, de forma mais direta.
-Criar tarefas práticas que envolvam exercícios de oratória e comunicação.
-Desenvolver um sistema para a submissão de tarefas e feedback, onde profissionais possam revisar e fornecer comentários construtivos.
+## Tarefas
+Implementar um teste de personalidade que identifique os pontos fortes e fracos de determinado usuário, recomendando conteúdo baseado nisso. Quizess e atividades interativas podem ser usadas também nesse quiz, além das questões
 
 ## Artigos e Experiências
-Configurar uma seção para publicação de artigos e histórias de usuários sobre o desenvolvimento de soft-skills.
-Implementar um sistema de curadoria e moderação do conteúdo para garantir qualidade e relevância.
-
-## Comunidade Interativa
-Criar um fórum ou plataforma de discussão onde os usuários possam interagir, trocar experiências e fazer perguntas.
-Implementar funcionalidades para a avaliação de outros alunos, como sistema de "curtidas" e comentários.
-Desenvolver uma área de perguntas e respostas com moderadores para garantir respostas úteis e precisas.
+Como uma expansão(caso tenhamos tempo de sobra)  é interessante criar uma sessão de comunidade onde podem ser postadas resoluções de determinadas tarefas e postagem de tarefas por parte de alunos que as achem interessantes.
 
 ## Avaliações e Feedback
 Criar ferramentas para avaliações de desempenho dos usuários em tarefas e atividades.
-Implementar um sistema de feedback contínuo que permita aos usuários avaliar a eficácia das videoaulas e outros recursos.
-Desenvolvimento Técnico
-
-## Infraestrutura
-Escolher e configurar a plataforma de hospedagem (ex.: AWS, Azure, Google Cloud).
-Implementar uma arquitetura escalável para suportar o crescimento do número de usuários.
 
 ## Interface de Usuário
 Desenvolver uma interface amigável e intuitiva para facilitar a navegação entre videoaulas, tarefas e fóruns.
 Garantir que o design seja responsivo e acessível em diferentes dispositivos.
 
-## Segurança e Privacidade
-Implementar medidas de segurança para proteger os dados dos usuários.
-Garantir conformidade com regulamentações de proteção de dados (ex.: GDPR, LGPD).
-
-## Integrações
-Desenvolver uma estratégia de marketing para promover o projeto e atrair novos usuários.
-Utilizar redes sociais, blogs e webinars para aumentar a visibilidade e o engajamento.
-Análise e Melhoria Contínua
 
 Monitorar o uso e desempenho das funcionalidades para identificar áreas de melhoria.
-Coletar feedback dos usuários de forma sistemática para ajustar e aprimorar a plataforma.
+Coletar feedback dos usuários para ajustar e aprimorar a plataforma.
