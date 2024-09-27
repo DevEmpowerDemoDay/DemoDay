@@ -20,3 +20,26 @@ Garantir que o design seja responsivo e acessível em diferentes dispositivos.
 
 Monitorar o uso e desempenho das funcionalidades para identificar áreas de melhoria.
 Coletar feedback dos usuários para ajustar e aprimorar a plataforma.
+
+
+# Tecnologias utilizadas:
+
+```
+Kotlin
+Android Framework
+Jetpack Compose
+```
+
+As tecnologias acima serão utilizadas para criação de interfaces e funcionalidades no aplicativo Android, foram escolhidas por serem tecnologias já consolidadas no mercado mobile, além disso, são atuais e de fácil aprendizado, comparado a seus concorrentes, facilitando a entrega no prazo, sem perder a qualidade.
+
+Algo importante a ressaltar, é que uma pagina na web será implementada, para a apresentação do projeto, nessa pagina utilizaremos:
+
+```
+HTML
+CSS
+JavaScript
+```
+Escolhemos essas tecnologias, por serem as tecnologias de início dentro do mundo de desenvolvimento web e como somos a turma mobile, fica mais facil conciliar. Além disso, o uso de frameworks não é necessário no nosso caso, já que vai ser apenas uma pagina estática com algumas animações e efeitos visuais, sem demandar de um backend elaborado dentro dela.
+
+
+
