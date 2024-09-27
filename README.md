@@ -57,7 +57,7 @@ Ao instalar o aplicativo e criar sua conta, o usuário faz um quiz com o intuito
 
 Quando o usuário cria seu perfil, ele é inserido na comunidade, onde pode ser visualizado pelos outros membros. A aba 'Comunidade' tem o intuito de promover a interação entre os usuários, permitindo que tirem dúvidas e compartilhem experiências. A ideia é manter os usuários ativos e engajados, porém, a moderação adequada parece ser o maior desafio para a implementação dessa proposta.
 
-## Videoaulas
+## Materiais de aula
 
 Nessa aba, o usuário inicia sua jornada, tendo acesso a uma trilha de videoaulas personalizadas para o seu perfil, com base no teste realizado durante o cadastro. Na plataforma, há diversas videoaulas ministradas por profissionais de RH, que ficam salvas no banco de dados. Quando o usuário cria seu perfil, sua trilha de aprendizado também é gerada, recomendando inicialmente as aulas mais relevantes, proporcionando uma experiência simples e eficiente.
 
