@@ -62,6 +62,9 @@ Quando o usuário cria seu perfil, ele é inserido na comunidade, onde pode ser 
 Nessa aba, o usuário inicia sua jornada, tendo acesso a uma trilha de videoaulas personalizadas para o seu perfil, com base no teste realizado durante o cadastro. Na plataforma, há diversas videoaulas ministradas por profissionais de RH, que ficam salvas no banco de dados. Quando o usuário cria seu perfil, sua trilha de aprendizado também é gerada, recomendando inicialmente as aulas mais relevantes, proporcionando uma experiência simples e eficiente.
 
 
+Essas são as ideias principais que consideramos indispensáveis no aplicativo. A forma como elas funcionam pode ser ajustada, caso identifiquemos um problema significativo, mas o objetivo final permanece o mesmo: capacitar os usuários para entrevistas de emprego, desenvolvendo suas soft skills. O processo será, em sua maioria, lúdico, mas formal quando necessário, garantindo que o profissionalismo nunca seja comprometido.
+
+
 
 
 
