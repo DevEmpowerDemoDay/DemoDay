@@ -39,6 +39,19 @@ HTML
 CSS
 JavaScript
 ```
+
+As plataformas/tecnologias que estamos utilizando para o desenvolvimento do DemoDay são: 
+
+```
+Trello
+Google Meet
+Google Forms
+```
+
+Dentre essas tecnologias, o Trello foi escolhido para manter todos os membros do projeto alinhados e no mesmo 'flow', facilitando o trabalho em equipe. Ele foi selecionado por ser uma ferramenta que opera em tempo real, permitindo uma verificação fácil do andamento das atividades. O Google Meet foi preferido por ser mais profissional e adequado para um ambiente de trabalho real, apresentando menos bugs e falhas em comparação ao Discord. Estamos utilizando o Google Forms por ser de fácil acesso e por simplificar o envio de respostas pelos usuários. Futuramente, quando o código começar a ser produzido, pretendemos utilizar o Android Studio, que facilita o desenvolvimento e é a IDE mais adequada para esse nicho específico.
+
+
+
 Escolhemos essas tecnologias, por serem as tecnologias de início dentro do mundo de desenvolvimento web e como somos a turma mobile, fica mais facil conciliar. Além disso, o uso de frameworks não é necessário no nosso caso, já que vai ser apenas uma pagina estática com algumas animações e efeitos visuais, sem demandar de um backend elaborado dentro dela.
 
 
