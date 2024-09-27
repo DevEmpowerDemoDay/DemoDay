@@ -42,4 +42,22 @@ JavaScript
 Escolhemos essas tecnologias, por serem as tecnologias de início dentro do mundo de desenvolvimento web e como somos a turma mobile, fica mais facil conciliar. Além disso, o uso de frameworks não é necessário no nosso caso, já que vai ser apenas uma pagina estática com algumas animações e efeitos visuais, sem demandar de um backend elaborado dentro dela.
 
 
+# Funcionalidades
+
+Dentro das funcionalidades do aplicativo, criamos uma hierarquia que define o que é necessário e indispensável para o aplicativo, e o que pode ser adicionado, como expansão/atualizações
+
+Em um aplicativo, existem diversas telas e abas, isso não é diferente no nosso, inicialmente, existem três abas que são: Videoaulas, Comunidade e 'Seu Perfil'
+
+## Seu Perfil
+
+Ao instalar o aplicativo e criar sua conta, o usuário faz um quiz com o intuito de identificar seus pontos fracos e áreas de comportamento que precisam ser melhoradas para se destacar nos processos seletivos. Esse quiz fica salvo junto com seu perfil e pode ser visualizado nesta aba. Além disso, outras informações estarão disponíveis, como o número de aulas assistidas, quizzes respondidos e informações básicas, como e-mail, data de criação da conta e opções para exclusão, alteração de senha e e-mail.
+
+
+## Videoaulas
+
+Nessa aba, o usuário inicia sua jornada, tendo acesso a uma trilha de videoaulas personalizadas para o seu perfil, com base no teste realizado durante o cadastro. Na plataforma, há diversas videoaulas ministradas por profissionais de RH, que ficam salvas no banco de dados. Quando o usuário cria seu perfil, sua trilha de aprendizado também é gerada, recomendando inicialmente as aulas mais relevantes, proporcionando uma experiência simples e eficiente.
+
+
+
+
 
