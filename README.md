@@ -59,7 +59,7 @@ Escolhemos essas tecnologias, por serem as tecnologias de início dentro do mund
 
 Dentro das funcionalidades do aplicativo, criamos uma hierarquia que define o que é necessário e indispensável para o aplicativo, e o que pode ser adicionado, como expansão/atualizações
 
-Em um aplicativo, existem diversas telas e abas, isso não é diferente no nosso, inicialmente, existem três abas que são: Videoaulas, Comunidade e 'Seu Perfil'
+Em um aplicativo, existem diversas telas e abas, isso não é diferente no nosso, inicialmente, existem três abas que são: Materiais de aula, Comunidade e 'Seu Perfil'
 
 ## Seu Perfil
 
